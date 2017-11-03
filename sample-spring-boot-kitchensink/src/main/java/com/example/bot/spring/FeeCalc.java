@@ -40,7 +40,7 @@ public class Fee{
 	
 	public void setToodlerFee() {
 		int fee = 0;
-		this toodler_fee = fee;
+		this.toodler_fee = fee;
 	}
 	public int getToodlerFee() {
 		return toodler_fee;
